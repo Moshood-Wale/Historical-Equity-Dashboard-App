@@ -16,4 +16,4 @@ This is a project that utilizes a Node.js and React application to establish a c
 2. Install dependencies in the api and client directory: `npm install`
 3. Start the client server: `npm start`
 5. Start the api server: `npm start`
-4. Open http://localhost:3000/ in your browser to connect to the API and CLIENT server.
+4. Open http://localhost:3000/ in your browser.
